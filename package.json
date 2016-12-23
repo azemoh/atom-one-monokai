@@ -1,0 +1,15 @@
+{
+  "name": "one-monokai",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Atom One monokai theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/azemoh/atom-one-monokai",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
