@@ -2,4 +2,7 @@
 
 One Monokai syntax theme for Atom.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](https://cloud.githubusercontent.com/assets/11008869/21462381/e787f81c-c95b-11e6-858b-90cab66784b6.png)
+
+## Credits
+- [Kevin Sawicki](https://github.com/kevinsawicki)'s [Monokai theme](https://github.com/kevinsawicki/monokai)
